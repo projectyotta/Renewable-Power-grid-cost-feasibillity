@@ -1,0 +1,28 @@
+
+"C:\\Users\\raosa\\Desktop\\PROJECTS\\DAEN 690\\EIA data\\Electricity__Average_retail_price_of_electricity__Residential.csv"
+2001 - 17 
+
+
+
+"C:\\Users\\raosa\\Desktop\\PROJECTS\\DAEN 690\\EIA data\\Electricity__Net_generation__By_fuel_type__All_Solar.csv",
+2014-17
+
+"C:\\Users\\raosa\\Desktop\\PROJECTS\\DAEN 690\\EIA data\\Electricity__Net_generation__By_fuel_type__Other_renewables.csv",
+2001-17
+
+"C:\\Users\\raosa\\Desktop\\PROJECTS\\DAEN 690\\EIA data\\Electricity__Net_generation__By_fuel_type__Small_scale_solar_photovoltaic__Residential.csv",
+2014-2017
+
+"C:\\Users\\raosa\\Desktop\\PROJECTS\\DAEN 690\\EIA data\\Electricity__Net_generation__By_fuel_type__Wind.csv",
+2001-17
+
+"C:\\Users\\raosa\\Desktop\\PROJECTS\\DAEN 690\\EIA data\\Electricity__Retail_sales_of_electricity__Residential.csv",
+2001-17
+
+"C:\\Users\\raosa\\Desktop\\PROJECTS\\DAEN 690\\EIA data\\Electricity__Revenue_from_retail_sales_of_electricity.csv",
+2001-17
+
+"C:\\Users\\raosa\\Desktop\\PROJECTS\\DAEN 690\\EIA data\\Electricity__Revenue_from_retail_sales_of_electricity__residential.csv",
+2001-17
+
+"C:\\Users\\raosa\\Desktop\\PROJECTS\\DAEN 690\\EIA data\\Electricity__Total_consumption__By sector__Electric_power_(total)__coal+petroleum_liquids+petoleum_coke+natural_gas.csv"

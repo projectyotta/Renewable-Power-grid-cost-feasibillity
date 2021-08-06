@@ -1,0 +1,1176 @@
+26.1,-98.6_Unnamed Road, Tamaulipas, Mexico
+26.1,-97.6_US-77 BUS, San Benito, TX 78586, USA
+26.1,-81.6_Triple G, Naples, FL 34117, USA
+26.1,-80.6_I-75, Florida, USA
+27.1,-99.6_Unnamed Road, Tamaulipas, Mexico
+27.1,-98.6_Santa Rita Camp Rd, Hebbronville, TX 78361, USA
+27.1,-97.6_Unnamed Road, Sarita, TX 78385, USA
+27.1,-82.6_3905 Casey Key Rd, Nokomis, FL 34275, USA
+27.1,-81.6_16635 Old Pine Rd SE, Arcadia, FL 34266, USA
+27.1,-80.6_8750 SW Moss Ave, Indiantown, FL 34956, USA
+28.1,-99.6_Galvan Ranch Main Rd, Encinal, TX 78019, USA
+28.1,-98.6_TX-16, Tilden, TX 78072, USA
+28.1,-97.6_15853 FM3089, Sinton, TX 78387, USA
+28.1,-82.6_15900-16098 Northlake Village Dr, Odessa, FL 33556, USA
+28.1,-81.6_3500 Grace Ave, Haines City, FL 33844, USA
+28.1,-80.6_705 S Harbor City Blvd, Melbourne, FL 32901, USA
+29.1,-103.6_Unnamed Road, Terlingua, TX 79852, USA
+29.1,-102.6_Unnamed Road, La Linda, Coah., Mexico
+29.1,-101.6_Unnamed Road, Coahuila de Zaragoza, Mexico
+29.1,-100.6_Unnamed Road, Brackettville, TX 78832, USA
+29.1,-99.6_Unnamed Road, Uvalde, TX 78801, USA
+29.1,-98.6_836-842 Meadows Rd, Poteet, TX 78065, USA
+29.1,-97.6_Jaeger Rd, Yorktown, TX 78164, USA
+29.1,-96.6_1027 Co Rd 273, Ganado, TX 77962, USA
+29.1,-95.6_1151 Mitchell Rd, Brazoria, TX 77422, USA
+29.1,-90.6_Chauvin, LA 70344, USA
+29.1,-82.6_Goethe Rd, Inglis, FL 34449, USA
+29.1,-81.6_51600-51984 Nfs 528, Astor, FL 32102, USA
+30.1,-104.6_Unnamed Road, Presidio, TX 79845, USA
+30.1,-103.6_TX-118, Alpine, TX 79830, USA
+30.1,-102.6_Pierce Rd, Sanderson, TX 79848, USA
+30.1,-101.6_Unnamed Road, Langtry, TX 78871, USA
+30.1,-100.6_Unnamed Road, Rocksprings, TX 78880, USA
+30.1,-99.6_345 B F Klein Ranch Rd SW, Mountain Home, TX 78058, USA
+30.1,-98.6_Boggy Creek Rd, Blanco, TX 78606, USA
+30.1,-97.6_149 Cielo Vista Dr, Del Valle, TX 78617, USA
+30.1,-96.6_8512 Mayer Cemetery Rd, Burton, TX 77835, USA
+30.1,-95.6_1005 E Main St, Tomball, TX 77375, USA
+30.1,-94.6_Unnamed Road, Devers, TX 77538, USA
+30.1,-93.6_Unnamed Road, Vinton, LA 70668, USA
+30.1,-92.6_1677 Swift Rd, Morse, LA 70559, USA
+30.1,-91.6_Bayou Benoit Levee Rd, St Martinville, LA 70582, USA
+30.1,-90.6_4336 W Airline Hwy, Reserve, LA 70084, USA
+30.1,-83.6_192 W Walnut St, Perry, FL 32348, USA
+30.1,-82.6_402 SE Doe Glen, Lake City, FL 32025, USA
+30.1,-81.6_143 Sweetbrier Branch Ln, Jacksonville, FL 32259, USA
+31.1,-105.6_Esperanza Rd, Fort Hancock, TX 79839, USA
+31.1,-104.6_John Conoly Rd, Van Horn, TX 79855, USA
+31.1,-103.6_7400-7494 TX-17, Pecos, TX 79772, USA
+31.1,-102.6_Owego Rd, Imperial, TX 79743, USA
+31.1,-101.6_Unnamed Road, Big Lake, TX 76932, USA
+31.1,-100.6_Unnamed Road, Christoval, TX 76935, USA
+31.1,-99.6_Unnamed Road, Brady, TX 76825, USA
+31.1,-98.6_Co Rd 428, San Saba, TX 76877, USA
+31.1,-97.6_Levy Crossing Rd, Belton, TX 76513, USA
+31.1,-96.6_Unnamed Road, Bremond, TX 76629, USA
+31.1,-95.6_County Rd 3456, Lovelady, TX 75851, USA
+31.1,-94.6_698 David Crain Rd, Huntington, TX 75949, USA
+31.1,-93.6_Unnamed Road, Burkeville, TX 75932, USA
+31.1,-92.6_LA-112, Forest Hill, LA 71430, USA
+31.1,-91.6_1699 Jackson Point Rd, Woodville, MS 39669, USA
+31.1,-90.6_7055-7059 Gordon Ln, Magnolia, MS 39652, USA
+31.1,-89.6_195 Tatum Salt Dome Rd, Lumberton, MS 39455, USA
+31.1,-88.6_4732 Cowboy Ln, Leakesville, MS 39451, USA
+31.1,-87.6_Unnamed Road, Atmore, AL 36502, USA
+31.1,-86.6_Unnamed Road, Wing, AL 36483, USA
+31.1,-85.6_Red Top Ln, Slocomb, AL 36375, USA
+31.1,-84.6_1082 Babcock Rd, Colquitt, GA 39837, USA
+31.1,-83.6_1084-1142 Burgess Rd, Moultrie, GA 31788, USA
+31.1,-82.6_7181 Carey James Rd, Manor, GA 31550, USA
+31.1,-81.6_I-95 & GA-405, Waverly, GA 31565, USA
+32.1,-112.6_Indian Rte 5, Sells, AZ 85634, USA
+32.1,-111.6_Unnamed Road, Sells, AZ 85634, USA
+32.1,-110.6_18280 E Gila Monster Way, Vail, AZ 85641, USA
+32.1,-109.6_Unnamed Road, Willcox, AZ 85643, USA
+32.1,-108.6_Unnamed Road, Playas, NM 88009, USA
+32.1,-107.6_Unnamed Road, Deming, NM 88030, USA
+32.1,-106.6_Anzio Rd, Vado, NM 88072, USA
+32.1,-105.6_County Rd F015, Dell City, NM 79837, USA
+32.1,-104.6_Yucca Canyon Trail, Carlsbad, NM 88220, USA
+32.1,-103.6_Unnamed Road, Jal, NM 88252, USA
+32.1,-102.6_SW 3601, Goldsmith, TX 79741, USA
+32.1,-101.6_4209 S Farm to Market 818, Big Spring, TX 79720, USA
+32.1,-100.6_Unnamed Road, Robert Lee, TX 76945, USA
+32.1,-99.6_Co Rd 213, Clyde, TX 79510, USA
+32.1,-98.6_751 Co Rd 463, De Leon, TX 76444, USA
+32.1,-97.6_17887 Fm, Morgan, TX 76671, USA
+32.1,-96.6_NW Co Rd 1190, Corsicana, TX 75110, USA
+32.1,-95.6_15035 County Rd 4343, Larue, TX 75770, USA
+32.1,-94.6_FM348, Henderson, TX 75654, USA
+32.1,-93.6_I-49, Mansfield, LA 71052, USA
+32.1,-92.6_Par Rd 1307, Dodson, LA 71422, USA
+32.1,-91.6_2816-2822 LA-4, Gilbert, LA 71336, USA
+32.1,-90.6_1750 Well House Rd, Utica, MS 39175, USA
+32.1,-89.6_US Frst Service Rd 526, Raleigh, MS 39153, USA
+32.1,-88.6_9235 MS-18, Quitman, MS 39355, USA
+32.1,-87.6_Unnamed Road, Arlington, AL 36722, USA
+32.1,-86.6_1307 Dickey Rd, Letohatchee, AL 36047, USA
+32.1,-85.6_Co Rd 119, Union Springs, AL 36089, USA
+32.1,-84.6_10491 US-280, Richland, GA 31825, USA
+32.1,-83.6_9124 Tippettville Rd, Vienna, GA 31092, USA
+32.1,-82.6_Unnamed Road, Mt Vernon, GA 30445, USA
+32.1,-81.6_2812 GA-67, Pembroke, GA 31321, USA
+33.1,-117.6_United States
+33.1,-116.6_1865-1887 Wynola Rd, Julian, CA 92036, USA
+33.1,-115.6_Ruegger Rd, Calipatria, CA 92233, USA
+33.1,-114.6_Red Cloud Mine Rd, Cibola, AZ 85328, USA
+33.1,-113.6_Unnamed Road, Arizona, USA
+33.1,-112.6_Unnamed Road, Arizona, USA
+33.1,-111.6_Unnamed Road, Coolidge, AZ 85128, USA
+33.1,-110.6_Jerusalem Canyon Rd, Arizona, USA
+33.1,-109.6_Black River Rd, Clifton, AZ 85533, USA
+33.1,-108.6_Unnamed Road, Cliff, NM 88028, USA
+33.1,-107.6_Unnamed Road, Winston, NM 87943, USA
+33.1,-106.6_Unnamed Road, Truth or Consequences, NM 87901, USA
+33.1,-105.6_Indian Service Rte 14, Cloudcroft, NM 88317, USA
+33.1,-104.6_Old Y O Crossing Rd, Hagerman, NM 88232, USA
+33.1,-103.6_Unnamed Road, Lovington, NM 88260, USA
+33.1,-102.6_County Rd 270, Texas 79376, USA
+33.1,-101.6_Co Rd GG, Tahoka, TX 79373, USA
+33.1,-100.6_TX-70, Snyder, TX 79549, USA
+33.1,-99.6_FM 2082, Haskell, TX 79521, USA
+33.1,-98.6_200-204 West, Graham, TX 76450, USA
+33.1,-97.6_Unnamed Road, Boyd, TX 76023, USA
+33.1,-96.6_1531 Estates Pkwy, Allen, TX 75002, USA
+33.1,-95.6_2019-2499 TX-154, Sulphur Springs, TX 75482, USA
+33.1,-94.6_2709 Co Rd 2747, Hughes Springs, TX 75656, USA
+33.1,-93.6_Dooley Rd, Lewisville, AR 71845, USA
+33.1,-92.6_575 Pinson Rd, El Dorado, AR 71730, USA
+33.1,-91.6_139 Ashley Road 352, Parkdale, AR 71661, USA
+33.1,-90.6_1026 Po Boy Rd, Belzoni, MS 39038, USA
+33.1,-89.6_Sanders Rd, Kosciusko, MS 39090, USA
+33.1,-88.6_4256 Ms Hwy 145, Macon, MS 39341, USA
+33.1,-87.6_11543 Maxwell Loop Rd, Tuscaloosa, AL 35405, USA
+33.1,-86.6_1330 Co Rd 303, Shelby, AL 35143, USA
+33.1,-85.6_Old Wadley Rd, Wadley, AL 36276, USA
+33.1,-84.6_Barron Rd, Gay, GA 30218, USA
+33.1,-83.6_336 Jackson Rd, Hillsboro, GA 31038, USA
+33.1,-82.6_13300-14382 Grange Rd, Avera, GA 30803, USA
+33.1,-81.6_2641 Steel Creek Rd, Martin, SC 29836, USA
+33.1,-80.6_147 St Luke Dr, St George, SC 29477, USA
+33.1,-79.6_Forrest Murrell Rd, McClellanville, SC 29458, USA
+34.1,-118.6_635 CA-27, Topanga, CA 90290, USA
+34.1,-117.6_9400 Cll Vejar, Rancho Cucamonga, CA 91730, USA
+34.1,-116.6_Big Morongo Canyon Rd, Morongo Valley, CA 92256, USA
+34.1,-115.6_73973 Twentynine Palms Highway, Twentynine Palms, CA 92277, USA
+34.1,-114.6_Unnamed Road, Vidal, CA 92280, USA
+34.1,-113.6_Unnamed Road, Bouse, AZ 85325, USA
+34.1,-112.6_Constellation Rd, Wickenburg, AZ 85390, USA
+34.1,-111.6_Arizona Trail, Payson, AZ 85541, USA
+34.1,-110.6_Unnamed Road, Cibecue, AZ 85911, USA
+34.1,-109.6_Unnamed Road, McNary, AZ 85930, USA
+34.1,-108.6_Unnamed Road, Quemado, NM 87829, USA
+34.1,-107.6_US-60, Magdalena, NM 87825, USA
+34.1,-106.6_Unnamed Road, San Antonio, NM 87832, USA
+34.1,-105.6_Unnamed Road, Corona, NM 88318, USA
+34.1,-104.6_Gem Rd, Fort Sumner, NM 88119, USA
+34.1,-103.6_3400-3598 S Roosevelt Rd 13, Elida, NM 88116, USA
+34.1,-102.6_FM746, Sudan, TX 79371, USA
+34.1,-101.6_2852-2898 Co Rd 150, Plainview, TX 79072, USA
+34.1,-100.6_Unnamed Road, Childress, TX 79201, USA
+34.1,-99.6_Co Rd 252, Chillicothe, TX 79225, USA
+34.1,-98.6_304 Vaughn Rd, Burkburnett, TX 76354, USA
+34.1,-97.6_E2010 Rd, Ringling, OK 73456, USA
+34.1,-96.6_19196 Linn Rd, Madill, OK 73446, USA
+34.1,-95.6_D2008 Rd, Hugo, OK 74743, USA
+34.1,-94.6_Chisholm Trail, Eagletown, OK 74734, USA
+34.1,-93.6_Cooper Loop, Murfreesboro, AR 71958, USA
+34.1,-92.6_Tram Trail, Smith Township, AR, USA
+34.1,-91.6_Unnamed Road, Stuttgart, AR 72160, USA
+34.1,-90.6_1005 Hallie Beth Ln, Clarksdale, MS 38614, USA
+34.1,-89.6_Unnamed Road, Water Valley, MS 38965, USA
+34.1,-88.6_839-969 Co Rd 1277, Nettleton, MS 38858, USA
+34.1,-87.6_1504 Co Rd 3501, Haleyville, AL 35565, USA
+34.1,-86.6_899 Ketchum Rd, Blountsville, AL 35031, USA
+34.1,-85.6_Co Rd 525, Centre, AL 35960, USA
+34.1,-84.6_231-233 Sable Trace Dr, Acworth, GA 30102, USA
+34.1,-83.6_1660 Winder Hwy, Jefferson, GA 30549, USA
+34.1,-82.6_717 N Calhoun Shores Pkwy, Calhoun Falls, SC 29628, USA
+34.1,-81.6_268 Peacock Rd, Prosperity, SC 29127, USA
+34.1,-80.6_Ice House Hill Rd, Rembert, SC 29128, USA
+34.1,-79.6_3091 N Old River Rd, Florence, SC 29505, USA
+34.1,-78.6_Unnamed Road, Nakina, NC 28455, USA
+34.1,-77.6_United States
+35.1,-120.6_2600 Christmas Tree Pl, Oceano, CA 93445, USA
+35.1,-119.6_Simmler Soda Lake Rd, Fellows, CA 93224, USA
+35.1,-118.6_19000-24298 Pellisier Rd, Tehachapi, CA 93561, USA
+35.1,-117.6_Kramer Station Rd, Boron, CA 93516, USA
+35.1,-116.6_Unnamed Road, Newberry Springs, CA 92365, USA
+35.1,-115.6_Kelso Cima Rd, Essex, CA 92332, USA
+35.1,-114.6_1330-1392 Marina Blvd, Bullhead City, AZ 86442, USA
+35.1,-113.6_4814 S Blue Stone Rd, Kingman, AZ 86401, USA
+35.1,-112.6_37255 Arizona Rd, Ash Fork, AZ 86320, USA
+35.1,-111.6_Forest Service Rd 762, Flagstaff, AZ 86001, USA
+35.1,-110.6_Unnamed Road, Winslow, AZ 86047, USA
+35.1,-109.6_I-40, Chambers, AZ 86502, USA
+35.1,-108.6_Unnamed Road, Zuni, NM 87327, USA
+35.1,-107.6_Unnamed Road, Casa Blanca, NM 87007, USA
+35.1,-106.6_1822 Morningside Dr NE, Albuquerque, NM 87110, USA
+35.1,-105.6_Unnamed Road, Stanley, NM 87056, USA
+35.1,-104.6_Unnamed Road, Santa Rosa, NM 88435, USA
+35.1,-103.6_3301 Q R 58, Tucumcari, NM 88401, USA
+35.1,-102.6_2500-2588 FM2587, Hereford, TX 79045, USA
+35.1,-101.6_FM1151, Claude, TX 79019, USA
+35.1,-100.6_Ranch Rd 2695, McLean, TX 79057, USA
+35.1,-99.6_E1320 Rd, Sayre, OK 73662, USA
+35.1,-98.6_422 Caddo Ave, Carnegie, OK 73015, USA
+35.1,-97.6_Meridian Ave, Cole, OK 73010, USA
+35.1,-96.6_13241 N 360 5 Rd, Wewoka, OK 74884, USA
+35.1,-95.6_D4162 Rd, Canadian, OK 74425, USA
+35.1,-94.6_814 Lonesome Pines, Poteau, OK 74953, USA
+35.1,-93.6_Unnamed Road, Havana, AR 72842, USA
+35.1,-92.6_1501-1511 Portland Rd, Houston, AR 72070, USA
+35.1,-91.6_2388 AR-11, Griffithville, AR 72060, USA
+35.1,-90.6_13019-13271 US-70, Widener, AR 72394, USA
+35.1,-89.6_4490-4520 Raleigh Lagrange Dr, Piperton, TN 38017, USA
+35.1,-88.6_478 Teague Ln, Ramer, TN 38367, USA
+35.1,-87.6_7009 Corning Rd, Iron City, TN 38463, USA
+35.1,-86.6_98 New George Rd, Fayetteville, TN 37334, USA
+35.1,-85.6_221 Lasater Cemetery Rd, Jasper, TN 37347, USA
+35.1,-84.6_US-74, Benton, TN 37307, USA
+35.1,-83.6_781 Rainbow Springs Rd, Franklin, NC 28734, USA
+35.1,-82.6_7492-7510 Geer Hwy, Cleveland, SC 29635, USA
+35.1,-81.6_14 Commerce Dr, Gaffney, SC 29340, USA
+35.1,-80.6_7418 Indian Trail Fairview Rd, Indian Trail, NC 28079, USA
+35.1,-79.6_1459 Derby Rd, Jackson Springs, NC 27281, USA
+35.1,-78.6_1588-2398 Welcome School Rd, Autryville, NC 28318, USA
+35.1,-77.6_907 Jessie Howard Rd, Deep Run, NC 28525, USA
+35.1,-76.6_161 Pittman Creek Rd, Merritt, NC 28556, USA
+36.1,-121.6_58801 CA-1, Big Sur, CA 93920, USA
+36.1,-120.6_Unnamed Road, Coalinga, CA 93210, USA
+36.1,-119.6_25000-25798 7 1/2 Ave, Corcoran, CA 93212, USA
+36.1,-118.6_Forest Rte 21S94, Springville, CA 93265, USA
+36.1,-117.6_Unnamed Road, California, USA
+36.1,-116.6_Furnace Creek Wash Rd, California, USA
+36.1,-115.6_Forest Rd 539, Las Vegas, NV 89124, USA
+36.1,-114.6_Cohenour Loop Rd, Temple Bar Marina, AZ 86443, USA
+36.1,-113.6_Twin Point Rd, Littlefield, AZ 86432, USA
+36.1,-112.6_Unnamed Road, Supai, AZ 86435, USA
+36.1,-111.6_Indian Rte 6134, Cameron, AZ 86020, USA
+36.1,-110.6_Indian Rte 6620, Hotevilla-Bacavi, AZ 86030, USA
+36.1,-109.6_Unnamed Road, Chinle, AZ 86503, USA
+36.1,-108.6_Unnamed Road, Tohatchi, NM 87325, USA
+36.1,-107.6_Unnamed Road, Counselor, NM 87018, USA
+36.1,-106.6_Unnamed Road, Youngsville, NM 87064, USA
+36.1,-105.6_Llano Largo, Vadito, NM 87579, USA
+36.1,-104.6_Unnamed Road, Wagon Mound, NM 87752, USA
+36.1,-103.6_Co Rd C022, Clayton, NM 88415, USA
+36.1,-102.6_Unnamed Road, Dalhart, TX 79022, USA
+36.1,-101.6_Unnamed Road, Gruver, TX 79040, USA
+36.1,-100.6_FM281, Perryton, TX 79070, USA
+36.1,-99.6_Unnamed Road, Arnett, OK 73832, USA
+36.1,-98.6_N2466 Rd, Canton, OK 73724, USA
+36.1,-97.6_E0630 Rd, Marshall, OK 73056, USA
+36.1,-96.6_54030 W 38th Pl S, Jennings, OK 74038, USA
+36.1,-95.6_N4160 Rd, Broken Arrow, OK 74014, USA
+36.1,-94.6_N4730 Rd, Watts, OK 74964, USA
+36.1,-93.6_482 Madison 2230, Huntsville, AR 72740, USA
+36.1,-92.6_386 Marion County 6046, Yellville, AR 72687, USA
+36.1,-91.6_120 Ruff Rd, Evening Shade, AR 72532, USA
+36.1,-90.6_292-578 Greene Rd 617, Paragould, AR 72450, USA
+36.1,-89.6_US-412, Finley, TN 38030, USA
+36.1,-88.6_2035 Hinkledale Rd, McKenzie, TN 38201, USA
+36.1,-87.6_11842 Hwy 70 E, McEwen, TN 37101, USA
+36.1,-86.6_3801-3833 Anderson Rd, Nashville, TN 37217, USA
+36.1,-85.6_4385 Roy Luke Rd, Baxter, TN 38544, USA
+36.1,-84.6_179 Catoosa Rd, Wartburg, TN 37887, USA
+36.1,-83.6_810 Ken Manley Rd, New Market, TN 37820, USA
+36.1,-82.6_698 Painter Creek Rd, Chuckey, TN 37641, USA
+36.1,-81.6_7050 Richland Rd, Lenoir, NC 28645, USA
+36.1,-80.6_Barefoot Trail, Yadkinville, NC 27055, USA
+36.1,-79.6_6443 Bethel Church Rd, Gibsonville, NC 27249, USA
+36.1,-78.6_1614 Country Ln, Creedmoor, NC 27522, USA
+36.1,-77.6_1002 Red Hill Church Rd, Whitakers, NC 27891, USA
+36.1,-76.6_1601 Paradise Rd, Edenton, NC 27932, USA
+37.1,-121.6_13970 Sycamore Ave, San Martin, CA 95046, USA
+37.1,-120.6_12595-13011 Indiana Rd, Dos Palos, CA 93620, USA
+37.1,-119.6_Unnamed Road, Friant, CA 93626, USA
+37.1,-118.6_Pacific Crest Trail, Shaver Lake, CA 93664, USA
+37.1,-117.6_Death Valley Rd, California, USA
+37.1,-116.6_Unnamed Road, Beatty, NV 89003, USA
+37.1,-115.6_G P Rd, Alamo, NV 89001, USA
+37.1,-114.6_Unnamed Road, Caliente, NV 89008, USA
+37.1,-113.6_Temple Quarry Trail, St George, UT 84770, USA
+37.1,-112.6_Hancock Rd, Kanab, UT 84741, USA
+37.1,-111.6_Unnamed Road, Kanab, UT 84741, USA
+37.1,-110.6_Unnamed Road, Oljato-Monument Valley, UT 84536, USA
+37.1,-109.6_Unnamed Road, Bluff, UT 84512, USA
+37.1,-108.6_Tram Rte, Mesa Verde National Park, CO 81330, USA
+37.1,-107.6_929 Shellhammer Rd, Ignacio, CO 81137, USA
+37.1,-106.6_Continental Divide Trail, Antonito, CO 81120, USA
+37.1,-105.6_Rd H, San Luis, CO 81152, USA
+37.1,-104.6_County Rd 57.8, Trinidad, CO 81082, USA
+37.1,-103.6_Unnamed Road, Branson, CO 81027, USA
+37.1,-102.6_Co Rd J, Campo, CO 81029, USA
+37.1,-101.6_Co Rd 26, Rolla, KS 67954, USA
+37.1,-100.6_26001-26999 Ontario St, Plains, KS 67869, USA
+37.1,-99.6_County Rd Y, Ashland, KS 67831, USA
+37.1,-98.6_Roundup Rd, Kiowa, KS 67070, USA
+37.1,-97.6_Caldwell Rd, Caldwell, KS 67022, USA
+37.1,-96.6_Co Rd 6, Cedar Vale, KS 67024, USA
+37.1,-95.6_County Rd 5100, Liberty, KS 67351, USA
+37.1,-94.6_6692 W Belle Center Rd, Joplin, MO 64801, USA
+37.1,-93.6_14327 W Farm Rd 194, Billings, MO 65610, USA
+37.1,-92.6_1340 MO-5, Mansfield, MO 65704, USA
+37.1,-91.6_County Rd 437-B, Summersville, MO 65571, USA
+37.1,-90.6_Co Rd 364, Piedmont, MO 63957, USA
+37.1,-89.6_1121 County Hwy 250, Oran, MO 63771, USA
+37.1,-88.6_Campbell St, Paducah, KY 42001, USA
+37.1,-87.6_2719 Terry Coal Rd, Crofton, KY 42217, USA
+37.1,-86.6_190 Manning Rd, Bowling Green, KY 42101, USA
+37.1,-85.6_9419-9427 KY-70, Edmonton, KY 42129, USA
+37.1,-84.6_107 Vicki Ln, Somerset, KY 42501, USA
+37.1,-83.6_Big Double Creek Rd, Big Creek, KY 40914, USA
+37.1,-82.6_10501-10509 US-23, Pound, VA 24279, USA
+37.1,-81.6_Unnamed Road, Tazewell, VA 24651, USA
+37.1,-80.6_7078 Young Rd, Dublin, VA 24084, USA
+37.1,-79.6_1200 Parkside Dr, Moneta, VA 24121, USA
+37.1,-78.6_301-395 Tall Pines Rd, Charlotte Court House, VA 23923, USA
+37.1,-77.6_17000-18018 Bittersweet Rd, Dinwiddie, VA 23841, USA
+37.1,-76.6_300 Ft Eustis Blvd, Newport News, VA 23608, USA
+38.1,-122.6_571 Wilson Ave, Novato, CA 94947, USA
+38.1,-121.6_192-798 W Brannan Island Rd, Isleton, CA 95641, USA
+38.1,-120.6_3181 Lumpy Ln, Angels Camp, CA 95222, USA
+38.1,-119.6_Pacific Crest Trail, California, USA
+38.1,-118.6_NFD 200 Trail, Mina, NV 89422, USA
+38.1,-117.6_US-95, Nevada, USA
+38.1,-116.6_Unnamed Road, Tonopah, NV 89049, USA
+38.1,-115.6_Unnamed Road, Alamo, NV 89001, USA
+38.1,-114.6_Unnamed Road, Pioche, NV 89043, USA
+38.1,-113.6_Unnamed Road, Modena, UT 84753, USA
+38.1,-112.6_Unnamed Road, Paragonah, UT 84760, USA
+38.1,-111.6_Forest Rd 285, Boulder, UT 84716, USA
+38.1,-110.6_BLM 15210, Utah, USA
+38.1,-109.6_UT-211 Scenic, Monticello, UT 84535, USA
+38.1,-108.6_1507 County Rd U29 E, Norwood, CO 81423, USA
+38.1,-107.6_Co Rd 12, Ridgway, CO 81432, USA
+38.1,-106.6_FS Rd 740, Saguache, CO 81149, USA
+38.1,-105.6_Hermit Rd, Westcliffe, CO 81252, USA
+38.1,-104.6_Unnamed Road, Pueblo, CO 81004, USA
+38.1,-103.6_31341 County Rd BB.25, Rocky Ford, CO 81067, USA
+38.1,-102.6_Unnamed Road, Lamar, CO 81052, USA
+38.1,-101.6_Unnamed Road, Kendall, KS 67857, USA
+38.1,-100.6_16117-16337 E Rockpit Rd, Garden City, KS 67846, USA
+38.1,-99.6_North Rd, Burdett, KS 67523, USA
+38.1,-98.6_Hudson Rd, Stafford, KS 67578, USA
+38.1,-97.6_17605 NW 48th St, Burrton, KS 67020, USA
+38.1,-96.6_KS-177 Scenic, Cassoday, KS 66842, USA
+38.1,-95.6_2040-2098 5th Rd, Le Roy, KS 66857, USA
+38.1,-94.6_SW 8508, Hume, MO 64752, USA
+38.1,-93.6_969, Lowry City, MO 64763, USA
+38.1,-92.6_401-497 McCubbins Dr, Linn Creek, MO 65052, USA
+38.1,-91.6_20335 Co Rd 1250, St James, MO 65559, USA
+38.1,-90.6_13886 Vineland Rd, De Soto, MO 63020, USA
+38.1,-89.6_8215 County Line Rd, Cutler, IL 62238, USA
+38.1,-88.6_County Rd 1325 N, McLeansboro, IL 62859, USA
+38.1,-87.6_2515 W Boonville - New Harmony Rd, Evansville, IN 47720, USA
+38.1,-86.6_17729-18387 Old State Rd 37, Leopold, IN 47551, USA
+38.1,-85.6_8900 Independence School Rd, Louisville, KY 40228, USA
+38.1,-84.6_4467 Old Frankfort Pike, Lexington, KY 40510, USA
+38.1,-83.6_1950 S Hwy 211, Salt Lick, KY 40371, USA
+38.1,-82.6_1003-1083 Eloise Church Rd, Louisa, KY 41230, USA
+38.1,-81.6_13092 Coal River Rd, Seth, WV 25181, USA
+38.1,-80.6_2133 Beech Knob, Leivasy, WV 26676, USA
+38.1,-79.6_7964 Indian Draft Rd, Millboro, VA 24460, USA
+38.1,-78.6_2202-2388 Decca Ln, Charlottesville, VA 22901, USA
+38.1,-77.6_5204-5400 Blaydes Corner Rd, Spotsylvania Courthouse, VA 22551, USA
+38.1,-76.6_1787 Peckatone Rd, Kinsale, VA 22488, USA
+38.1,-75.6_7970 Hayward Rd, Pocomoke City, MD 21851, USA
+39.1,-123.6_Philo Greenwood Rd, Elk, CA 95432, USA
+39.1,-122.6_5720 N 5 Rd, Clearlake Oaks, CA 95423, USA
+39.1,-121.6_Levee Rd, Yuba City, CA 95991, USA
+39.1,-120.6_Unnamed Road, Foresthill, CA 95631, USA
+39.1,-119.6_Unnamed Road, Carson City, NV 89701, USA
+39.1,-118.6_Unnamed Road, Nevada, USA
+39.1,-117.6_Unnamed Road, Austin, NV 89310, USA
+39.1,-116.6_NF-025, Nevada, USA
+39.1,-115.6_White Pine County Rd 5, Nevada, USA
+39.1,-114.6_NF-436, Nevada, USA
+39.1,-113.6_US-50, Utah, USA
+39.1,-112.6_Clearlake Rd, Delta, UT 84624, USA
+39.1,-111.6_Forest Rd 0290, Mayfield, UT 84643, USA
+39.1,-110.6_Unnamed Road, Green River, UT 84525, USA
+39.1,-109.6_Unnamed Road, Thompson, UT 84540, USA
+39.1,-108.6_661 24 1/2 Rd, Grand Junction, CO 81505, USA
+39.1,-107.6_Gg65 Dr, Colorado, USA
+39.1,-106.6_39183-42641 CO-82, Aspen, CO 81611, USA
+39.1,-105.6_894 Gunnison St, Lake George, CO 80827, USA
+39.1,-104.6_18520-18598 Meridian Rd, Colorado Springs, CO 80908, USA
+39.1,-103.6_25821 Co Rd 2U, Hugo, CO 80821, USA
+39.1,-102.6_7000 Co Rd 30, Stratton, CO 80836, USA
+39.1,-101.6_Rd Wa-N26, Wallace, KS 67761, USA
+39.1,-100.6_Gove CC, Grinnell, KS 67738, USA
+39.1,-99.6_Unnamed Road, Ellis, KS 67637, USA
+39.1,-98.6_199th St, Lucas, KS 67648, USA
+39.1,-97.6_1701-1799 KS-106, Minneapolis, KS 67467, USA
+39.1,-96.6_100 Konza Prairie Ln, Manhattan, KS 66502, USA
+39.1,-95.6_2201 NE 31st St, Topeka, KS 66617, USA
+39.1,-94.6_Mulberry St, Kansas City, MO 64102, USA
+39.1,-93.6_26894 Walnut Rd, Corder, MO 64021, USA
+39.1,-92.6_341 Co Rd 418, Fayette, MO 65248, USA
+39.1,-91.6_2-98 Roppel Rd, Wellsville, MO 63384, USA
+39.1,-90.6_County Rd 120 E, Fieldon, IL 62031, USA
+39.1,-89.6_5100-5198 County Rd 700 N, Walshville, IL 62091, USA
+39.1,-88.6_12596 N 1075th St, Effingham, IL 62401, USA
+39.1,-87.6_W Co Rd 100 N, Merom, IN 47861, USA
+39.1,-86.6_5099 W Fowler Rd, Bloomington, IN 47403, USA
+39.1,-85.6_965 E County Rd 800 N, North Vernon, IN 47265, USA
+39.1,-84.6_4553 Fehr Rd, Cincinnati, OH 45238, USA
+39.1,-83.6_7761 Oak Ridge Rd, Hillsboro, OH 45133, USA
+39.1,-82.6_466 Hard Scrapple Rd, Wellston, OH 45692, USA
+39.1,-81.6_Wadesville-Rockport, Rockport, WV 26169, USA
+39.1,-80.6_484 Isaacs Fork Rd, Camden, WV 26338, USA
+39.1,-79.6_Forest Rd 717, Hambleton, WV 26269, USA
+39.1,-78.6_Moores Run, Wardensville, WV 26851, USA
+39.1,-77.6_18536 Woodburn Rd, Leesburg, VA 20175, USA
+39.1,-76.6_140-142 Downing Dr, Severna Park, MD 21146, USA
+39.1,-75.6_119 Brookwood Dr, Camden Wyoming, DE 19934, USA
+40.1,-124.6_United States
+40.1,-123.6_Jeep Trail, Garberville, CA 95542, USA
+40.1,-122.6_17695 Dibble Creek Rd, Red Bluff, CA 96080, USA
+40.1,-121.6_Unnamed Road, Chico, CA 95973, USA
+40.1,-120.6_Unnamed Road, Taylorsville, CA 95983, USA
+40.1,-119.6_Surprise Valley Rd, Reno, NV 89510, USA
+40.1,-118.6_Frontage Rd, Lovelock, NV 89419, USA
+40.1,-117.6_Unnamed Road, Lovelock, NV 89419, USA
+40.1,-116.6_Unnamed Road, Nevada, USA
+40.1,-115.6_Unnamed Road, Nevada, USA
+40.1,-114.6_Unnamed Road, Ely, NV 89301, USA
+40.1,-113.6_Unnamed Road, Utah, USA
+40.1,-112.6_Unnamed Road, Dugway, UT 84022, USA
+40.1,-111.6_2332 E 7200 S, Spanish Fork, UT 84660, USA
+40.1,-110.6_13095 A1700S, Duchesne, UT 84021, USA
+40.1,-109.6_Unnamed Road, Randlett, UT 84063, USA
+40.1,-108.6_Unnamed Road, Meeker, CO 81641, USA
+40.1,-107.6_Unnamed Road, Meeker, CO 81641, USA
+40.1,-106.6_Forest Rd 243, Kremmling, CO 80459, USA
+40.1,-105.6_Middle Saint Vrain Road, Lyons, CO 80540, USA
+40.1,-104.6_24000-24772 Co Rd 16, Hudson, CO 80642, USA
+40.1,-103.6_6351-6999 CO-71, Brush, CO 80723, USA
+40.1,-102.6_11238-11378 County Rd 37, Yuma, CO 80759, USA
+40.1,-101.6_Rd 709, Benkelman, NE 69021, USA
+40.1,-100.6_803 Blue Star Memorial Hwy, McCook, NE 69001, USA
+40.1,-99.6_B Rd, Stamford, NE 68977, USA
+40.1,-98.6_Rd 800, Red Cloud, NE 68970, USA
+40.1,-97.6_Rd H, Hebron, NE 68370, USA
+40.1,-96.6_8678 E Plum Rd, Wymore, NE 68466, USA
+40.1,-95.6_65247 709 Rd, Falls City, NE 68355, USA
+40.1,-94.6_Holeman Rd, King City, MO 64463, USA
+40.1,-93.6_Drake NW Ln, Trenton, MO 64683, USA
+40.1,-92.6_23459 Crest Trail, Kirksville, MO 63501, USA
+40.1,-91.6_28600-28998 205th St, Canton, MO 63435, USA
+40.1,-90.6_US-24, Rushville, IL 62681, USA
+40.1,-89.6_30896 Greenview Middletown Black Top, Middletown, IL 62666, USA
+40.1,-88.6_2000 E Washington St, Monticello, IL 61856, USA
+40.1,-87.6_Back Bone Rd, Danville, IL 61834, USA
+40.1,-86.6_4001-4265 N 700 W, Thorntown, IN 46071, USA
+40.1,-85.6_318 Timber Ln, Anderson, IN 46017, USA
+40.1,-84.6_5525-5549 US-36, Greenville, OH 45331, USA
+40.1,-83.6_7815 Stringtown Rd, Mechanicsburg, OH 43044, USA
+40.1,-82.6_5779 Lobdell Rd, Alexandria, OH 43001, USA
+40.1,-81.6_68559 8th Street Rd, Cambridge, OH 43725, USA
+40.1,-80.6_912 Dixons Run Rd, Triadelphia, WV 26059, USA
+40.1,-79.6_1200-1300 Gurley Dr, Scottdale, PA 15683, USA
+40.1,-78.6_2000-2096 State Rte 4003, Schellsburg, PA 15559, USA
+40.1,-77.6_6040-6742 McClays Mill Rd, Newburg, PA 17240, USA
+40.1,-76.6_1635 Hauenstein Rd, Elizabethtown, PA 17022, USA
+40.1,-75.6_1412 Clover Mill Rd, Chester Springs, PA 19425, USA
+40.1,-74.6_2-50 Harrison Rd, Allentown, NJ 08501, USA
+41.1,-124.6_f3winbf,erg,CA 11111,USA
+41.1,-123.6_Hostler B Rd, Hoopa, CA 95546, USA
+41.1,-122.6_Unnamed Road, Trinity Center, CA 96091, USA
+41.1,-121.6_Unnamed Road, Fall River Mills, CA 96028, USA
+41.1,-120.6_Unnamed Road, Madeline, CA 96119, USA
+41.1,-119.6_Unnamed Road, Gerlach, NV 89412, USA
+41.1,-118.6_Unnamed Road, Winnemucca, NV 89445, USA
+41.1,-117.6_5145 Schreiner Dr, Winnemucca, NV 89445, USA
+41.1,-116.6_Unnamed Road, Nevada, USA
+41.1,-115.6_Rota Rd, Elko, NV 89801, USA
+41.1,-114.6_Unnamed Road, Wells, NV 89835, USA
+41.1,-113.6_Crater Island Rd, Wendover, UT 84083, USA
+41.1,-112.6_SE Promontory Rd, Corinne, UT 84307, USA
+41.1,-111.6_Dry Creek Rd, Morgan, UT 84050, USA
+41.1,-110.6_7382 Co Rd 271, Robertson, WY 82944, USA
+41.1,-109.6_WY-530, McKinnon, WY 82938, USA
+41.1,-108.6_Unnamed Road, Wyoming, USA
+41.1,-107.6_Unnamed Road, Baggs, WY 82321, USA
+41.1,-106.6_Unnamed Road, Encampment, WY 82325, USA
+41.1,-105.6_453-519 Sportsman Lake Rd, Laramie, WY 82070, USA
+41.1,-104.6_3587 Primrose Trail, Cheyenne, WY 82007, USA
+41.1,-103.6_Co Rd 47, Kimball, NE 69145, USA
+41.1,-102.6_Rd 16, Chappell, NE 69129, USA
+41.1,-101.6_750-798 Rd East G S, Ogallala, NE 69153, USA
+41.1,-100.6_Lincoln Hwy, Maxwell, NE 69151, USA
+41.1,-99.6_Unnamed Road, Broken Bow, NE 68822, USA
+41.1,-98.6_Unnamed Road, Dannebrog, NE 68831, USA
+41.1,-97.6_12456 Center Rd, Stromsburg, NE 68666, USA
+41.1,-96.6_663 Co Rd 16, Wahoo, NE 68066, USA
+41.1,-95.6_54466 307th St, Malvern, IA 51551, USA
+41.1,-94.6_1400-1408 Quince Ave, Prescott, IA 50859, USA
+41.1,-93.6_3187 Norman St, Woodburn, IA 50275, USA
+41.1,-92.6_22817-23065 Power Plant Rd, Albia, IA 52531, USA
+41.1,-91.6_1430 Graham Ave, Mt Pleasant, IA 52641, USA
+41.1,-90.6_257 250th St, Alexis, IL 61412, USA
+41.1,-89.6_County Rd 250 E, Bradford, IL 61421, USA
+41.1,-88.6_32456-32672 N 1700 E Rd, Ransom, IL 60470, USA
+41.1,-87.6_2095 S 14000E Rd, Momence, IL 60954, USA
+41.1,-86.6_2886 US-35, Winamac, IN 46996, USA
+41.1,-85.6_5570 IN-205, South Whitley, IN 46787, USA
+41.1,-84.6_8643 Rd 107, Paulding, OH 45879, USA
+41.1,-83.6_14563-14999 Township Rd 215, Findlay, OH 45840, USA
+41.1,-82.6_363 OH-162, North Fairfield, OH 44855, USA
+41.1,-81.6_2298 Boughton Dr, Akron, OH 44320, USA
+41.1,-80.6_2316 Oak St Ext, Youngstown, OH 44505, USA
+41.1,-79.6_Logue Rd, Parker, PA 16049, USA
+41.1,-78.6_1613 Christian Ridge Rd, Rockton, PA 15856, USA
+41.1,-77.6_653 Berry Rd, Beech Creek, PA 16822, USA
+41.1,-76.6_271 White Hall Rd, Bloomsburg, PA 17815, USA
+41.1,-75.6_5759 PA-115, Blakeslee, PA 18610, USA
+41.1,-74.6_210 Cork Hill Rd, Franklin, NJ 07416, USA
+41.1,-73.6_72-98 Carrington Dr, Stamford, CT 06903, USA
+41.1,-72.6_7855 Oregon Rd, Cutchogue, NY 11935, USA
+42.1,-124.6_96432 Shorewood Terrace, Brookings, OR 97415, USA
+42.1,-123.6_175 Beaver Meadows, Cave Junction, OR 97523, USA
+42.1,-122.6_3350 Old Siskiyou Hwy, Ashland, OR 97520, USA
+42.1,-121.6_Unnamed Road, Klamath Falls, OR 97603, USA
+42.1,-120.6_NF-401, Lakeview, OR 97630, USA
+42.1,-119.6_Warner Hwy, Adel, OR 97620, USA
+42.1,-118.6_15824 Fields-Denio Rd, Fields, OR 97710, USA
+42.1,-117.6_Nouque Ranch Rd, McDermitt, OR 89421, USA
+42.1,-116.6_Unnamed Road, Idaho, USA
+42.1,-115.6_Unnamed Road, Rogerson, ID 83302, USA
+42.1,-114.6_Magic Hot Springs Rd, Rogerson, ID 83302, USA
+42.1,-113.6_2850 Narrows Rd, Malta, ID 83342, USA
+42.1,-112.6_S 19000 W, Malad City, ID 83252, USA
+42.1,-111.6_Forest Rd 1125, Preston, ID 83263, USA
+42.1,-110.6_Unnamed Road, Kemmerer, WY 83101, USA
+42.1,-109.6_Lincoln Sweetwater Rd, Farson, WY 82932, USA
+42.1,-108.6_Unnamed Road, Wyoming, USA
+42.1,-107.6_Unnamed Road, Rawlins, WY 82301, USA
+42.1,-106.6_Unnamed Road, Hanna, WY 82327, USA
+42.1,-105.6_1101-1143 Garrett Rd, Garrett, WY 82058, USA
+42.1,-104.6_Rd 55, Fort Laramie, WY 82212, USA
+42.1,-103.6_Unnamed Road, Alliance, NE 69301, USA
+42.1,-102.6_405th Trail, Alliance, NE 69301, USA
+42.1,-101.6_Unnamed Road, Hyannis, NE 69350, USA
+42.1,-100.6_County Line Rd, Thedford, NE 69166, USA
+42.1,-99.6_Unnamed Road, Bassett, NE 68714, USA
+42.1,-98.6_49462 847th Rd, Ewing, NE 68735, USA
+42.1,-97.6_84598 546th Ave, Norfolk, NE 68701, USA
+42.1,-96.6_Unnamed Road, Bancroft, NE 68004, USA
+42.1,-95.6_1729-1779 140th St, Charter Oak, IA 51439, USA
+42.1,-94.6_255 175th St, Scranton, IA 51462, USA
+42.1,-93.6_55785-55799 175th St, Ames, IA 50010, USA
+42.1,-92.6_2405 II Ave, Toledo, IA 52342, USA
+42.1,-91.6_3200-3300 N Marion Rd, Marion, IA 52302, USA
+42.1,-90.6_25108 Dark Hollow Rd, Maquoketa, IA 52060, USA
+42.1,-89.6_13976 W West Grove Rd, Forreston, IL 61030, USA
+42.1,-88.6_32360 New Lebanon Rd, Hampshire, IL 60140, USA
+42.1,-87.6_790 Sheridan Rd, Wilmette, IL 60091, USA
+42.1,-86.6_2580 Sundance Path, Shoreham, MI 49085, USA
+42.1,-85.6_14535 S 16th St, Schoolcraft, MI 49087, USA
+42.1,-84.6_10085 Hanover Rd, Hanover, MI 49241, USA
+42.1,-83.6_12940 Whittaker Rd, Milan, MI 48160, USA
+42.1,-80.6_8 Eagley Rd, East Springfield, PA 16411, USA
+42.1,-79.6_8243-8385 County Touring Rte 4, Clymer, NY 14724, USA
+42.1,-78.6_10 Mile Rd, Allegany, NY 14706, USA
+42.1,-77.6_2187-2299 Gunn Rd, Greenwood, NY 14839, USA
+42.1,-76.6_169-351 Putt Hill Rd, Lockwood, NY 14859, USA
+42.1,-75.6_698 Ostrander Rd, Windsor, NY 13865, USA
+42.1,-74.6_Unnamed Road, Margaretville, NY 12455, USA
+42.1,-73.6_Vista Rd, Copake, NY 12516, USA
+42.1,-72.6_US-5, West Springfield, MA 01089, USA
+42.1,-71.6_609-623 Hartford Ave E, Uxbridge, MA 01569, USA
+42.1,-70.6_19 Middle St, Marshfield, MA 02050, USA
+43.1,-124.6_1455 Pelican Pl, Bandon, OR 97411, USA
+43.1,-123.6_1013 Orchard Ln, Roseburg, OR 97471, USA
+43.1,-122.6_NF-28, Tiller, OR 97484, USA
+43.1,-121.6_Unnamed Road, Oregon, USA
+43.1,-120.6_Unnamed Road, Silver Lake, OR 97638, USA
+43.1,-119.6_Unnamed Road, Oregon, USA
+43.1,-118.6_51629 Happy Valley Rd, Princeton, OR 97721, USA
+43.1,-117.6_Mud Lake Reservoir Rd, Jordan Valley, OR 97910, USA
+43.1,-116.6_Silver City Rd, Murphy, ID 83650, USA
+43.1,-115.6_5486 SE Crop Ave, Mountain Home, ID 83647, USA
+43.1,-114.6_Unnamed Road, Gooding, ID 83330, USA
+43.1,-113.6_Unnamed Road, Idaho, USA
+43.1,-112.6_1555 ID-39, Pingree, ID 83262, USA
+43.1,-111.6_Cranes Flat Rd, Idaho, USA
+43.1,-110.6_Unnamed Road, Bondurant, WY 82922, USA
+43.1,-109.6_Continental Divide Trail, Cora, WY 82925, USA
+43.1,-108.6_7340 Riverview Rd, Riverton, WY 82501, USA
+43.1,-107.6_Unnamed Road, Shoshoni, WY 82649, USA
+43.1,-106.6_Thirtythree Mile Rd, Wyoming, USA
+43.1,-105.6_669 Highland Loop Rd, Douglas, WY 82633, USA
+43.1,-104.6_970 N Lance Creek Rd, Lance Creek, WY 82222, USA
+43.1,-103.6_Unnamed Road, Hot Springs, SD 57747, USA
+43.1,-102.6_Wolf Hound Rd, Pine Ridge, SD 57770, USA
+43.1,-101.6_Unnamed Road, Martin, SD 57551, USA
+43.1,-100.6_US-83, Valentine, SD 69201, USA
+43.1,-99.6_297th St, Dallas, SD 57529, USA
+43.1,-98.6_Crop Rd, Lake Andes, SD 57356, USA
+43.1,-97.6_29575 430th Ave, Lesterville, SD 57040, USA
+43.1,-96.6_48008-48052 296th St, Hudson, SD 57034, USA
+43.1,-95.6_6010-6050 380th St, Primghar, IA 51245, USA
+43.1,-94.6_3729-3791 500th Ave, Cylinder, IA 50528, USA
+43.1,-93.6_500-598 Grove Ave, Garner, IA 50438, USA
+43.1,-92.6_3185 180th St, Charles City, IA 50616, USA
+43.1,-91.6_117-199 US-52, Postville, IA 52162, USA
+43.1,-90.6_16401-16599 Co Rd T, Boscobel, WI 53805, USA
+43.1,-89.6_4471 Rocky Dell Rd, Cross Plains, WI 53528, USA
+43.1,-88.6_N7198 Woody Ln Dr, Oconomowoc, WI 53066, USA
+43.1,-87.6_Milwaukee County, WI, USA
+43.1,-86.6_Ottawa County, MI, USA
+43.1,-85.6_7540 Belmont Ave NE, Belmont, MI 49306, USA
+43.1,-84.6_3984 W Hyde Rd, St Johns, MI 48879, USA
+43.1,-83.6_5472 Woodlawn Dr, Flint, MI 48506, USA
+43.1,-82.6_6779 Gibbons Rd, Grant Township, MI 48032, USA
+43.1,-78.6_6654 Moyer Rd, Lockport, NY 14094, USA
+43.1,-77.6_3031-3039 S Clinton Ave, Rochester, NY 14623, USA
+43.1,-76.6_9971 Dietzel Rd, Weedsport, NY 13166, USA
+43.1,-75.6_5036 NY-365, Verona, NY 13478, USA
+43.1,-74.6_316 Sprite Club Rd, St Johnsville, NY 13452, USA
+43.1,-73.6_142 Circle Dr, Northville, NY 12134, USA
+43.1,-72.6_131 Reed Rd, Chester, VT 05143, USA
+43.1,-71.6_99-121 Robert Rogers Rd, Dunbarton, NH 03046, USA
+43.1,-70.6_293 ME-103, York, ME 03909, USA
+44.1,-124.6_wekjfn,33woigb, OR 11111, USA
+44.1,-123.6_Walker Point Rd, Walton, OR 97490, USA
+44.1,-122.6_Unnamed Road, Springfield, OR 97478, USA
+44.1,-121.6_NF-370, Bend, OR 97701, USA
+44.1,-120.6_Eagle View Rd, Prineville, OR 97754, USA
+44.1,-119.6_NF-700, Paulina, OR 97751, USA
+44.1,-118.6_NF-461, Oregon, USA
+44.1,-117.6_Dry Creek Loop Rd, Vale, OR 97918, USA
+44.1,-116.6_8800 Dry Creek Rd, Payette, ID 83661, USA
+44.1,-115.6_Bear Valley Rd, Lowman, ID 83637, USA
+44.1,-114.6_Big Boulder Creek Rd, Clayton, ID 83227, USA
+44.1,-113.6_Unnamed Road, May, ID 83253, USA
+44.1,-112.6_ID-22, Monteview, ID 83435, USA
+44.1,-111.6_Sarilda Rd, Ashton, ID 83420, USA
+44.1,-110.6_John D Rockefeller Jr Pkwy, Moran, WY 83013, USA
+44.1,-109.6_4148 Southfork Rd, Cody, WY 82414, USA
+44.1,-108.6_Unnamed Road, Worland, WY 82401, USA
+44.1,-107.6_Bentonite Ridge Rd, Ten Sleep, WY 82442, USA
+44.1,-106.6_Middle Fork Rd End, Buffalo, WY 82834, USA
+44.1,-105.6_Unnamed Road, Gillette, WY 82718, USA
+44.1,-104.6_Community Pasture Rd, Upton, WY 82730, USA
+44.1,-103.6_Kelly Gulch Rd, Rapid City, SD 57702, USA
+44.1,-102.6_I-90, Owanka, SD 57767, USA
+44.1,-101.6_225th Ave, Philip, SD 57567, USA
+44.1,-100.6_Lincoln Rd, Draper, SD 57531, USA
+44.1,-99.6_Little Bend Rd, Lower Brule, SD 57548, USA
+44.1,-98.6_380th Ave, Wessington Springs, SD 57382, USA
+44.1,-97.6_227th St, Howard, SD 57349, USA
+44.1,-96.6_22637 Sd Hwy 13, Flandreau, SD 57028, USA
+44.1,-95.6_1700-1758 230th Ave, Currie, MN 56123, USA
+44.1,-94.6_T114, Hanska, MN 56041, USA
+44.1,-93.6_7865-7999 Old U.S. 14, Janesville, MN 56048, USA
+44.1,-92.6_6939 80th Ave NW, Byron, MN 55920, USA
+44.1,-91.6_W334 Piepers Valley Rd, Fountain City, WI 54629, USA
+44.1,-90.6_19616 Chaparral Ave, Warrens, WI 54666, USA
+44.1,-89.6_1075 1st Ave, Hancock, WI 54943, USA
+44.1,-88.6_4018 Brooks Rd, Oshkosh, WI 54904, USA
+44.1,-87.6_5000 Memorial Dr, Two Rivers, WI 54241, USA
+44.1,-86.6_Unnamed Road, Free Soil, MI 49411, USA
+44.1,-85.6_7280 N Hawkins Rd, Luther, MI 49656, USA
+44.1,-84.6_4275 Cassidy Rd, Gladwin, MI 48624, USA
+44.1,-83.6_5084-5434 N Hammell Beach Rd, Au Gres, MI 48703, USA
+44.1,-82.6_Huron County, MI, USA
+44.1,-75.6_US Military Hwy, Carthage, NY 13619, USA
+44.1,-74.6_Ip Access Rd, Long Lake, NY 12847, USA
+44.1,-73.6_Adirondack Park, New Russia, NY 12964, USA
+44.1,-72.6_305 Getz Rd, Williamstown, VT 05679, USA
+44.1,-71.6_Black Pond Trail, Lincoln, NH 03251, USA
+44.1,-70.6_Jesse Mill Rd, Otisfield, ME 04270, USA
+44.1,-69.6_74-100 Nelson Rd, Alna, ME 04535, USA
+45.1,-124.6_Terrace, Brookings, OR 97415, USA
+45.1,-123.6_22285 Spirit Mountain Rd, Grand Ronde, OR 97347, USA
+45.1,-122.6_35035 S Soda Springs Rd, Molalla, OR 97038, USA
+45.1,-121.6_Unnamed Road, Maupin, OR 97037, USA
+45.1,-120.6_Helyer Rd, Kent, OR 97033, USA
+45.1,-119.6_51801 Sunflower Flat Rd, Heppner, OR 97836, USA
+45.1,-118.6_NF-5226, Ukiah, OR 97880, USA
+45.1,-117.6_NF-650, Baker City, OR 97814, USA
+45.1,-116.6_Unnamed Road, New Meadows, ID 83654, USA
+45.1,-115.6_Unnamed Road, Yellow Pine, ID 83677, USA
+45.1,-114.6_Forest Rd 114, Challis, ID 83226, USA
+45.1,-113.6_Unnamed Road, Salmon, ID 83467, USA
+45.1,-112.6_7353-7951 Blacktail Rd, Dillon, MT 59725, USA
+45.1,-111.6_1255-1335 Bear Creek Loop, Cameron, MT 59720, USA
+45.1,-110.6_Bear Fork Rd, Gardiner, MT 59030, USA
+45.1,-109.6_Forest Rte 421, Cody, MT 82414, USA
+45.1,-108.6_561 Quarry Rd, Bridger, MT 59014, USA
+45.1,-107.6_Unnamed Road, Lodge Grass, MT 59050, USA
+45.1,-106.6_Otter Rd, Decker, MT 59025, USA
+45.1,-105.6_Unnamed Road, Biddle, MT 59314, USA
+45.1,-104.6_US-212, Alzada, MT 59311, USA
+45.1,-103.6_Unnamed Road, Belle Fourche, SD 57717, USA
+45.1,-102.6_Bixby Rd, Faith, SD 57626, USA
+45.1,-101.6_Unnamed Road, Dupree, SD 57623, USA
+45.1,-100.6_Laplant Rd, Mobridge, SD 57601, USA
+45.1,-99.6_Unnamed Road, Seneca, SD 57473, USA
+45.1,-98.6_158th St, Northville, SD 57465, USA
+45.1,-97.6_Co Rd 39, Bradley, SD 57217, USA
+45.1,-96.6_15701-15769 480th Ave, Labolt, SD 57246, USA
+45.1,-95.6_5045 1st Ave S, Montevideo, MN 56265, USA
+45.1,-94.6_58000-58308 243rd St, Litchfield, MN 55355, USA
+45.1,-93.6_8175 Strehler Rd, Hamel, MN 55340, USA
+45.1,-92.6_991 165th Ave, New Richmond, WI 54017, USA
+45.1,-91.6_3594 Co Hwy A, Bloomer, WI 54724, USA
+45.1,-90.6_N2126 Coyote Dr, Withee, WI 54498, USA
+45.1,-89.6_Hazelwood Ln, Wausau, WI 54403, USA
+45.1,-88.6_Camp 23 Rd, White Lake, WI 54491, USA
+45.1,-87.6_222-298 2nd St, Menominee, MI 49858, USA
+45.1,-86.6_Door County, WI, USA
+45.1,-85.6_8043-8099 N Indian Camp Rd, Northport, MI 49670, USA
+45.1,-84.6_3747-3757 Peanut Hill Rd, Gaylord, MI 49735, USA
+45.1,-83.6_Lancaster Trail, Alpena, MI 49707, USA
+45.1,-82.6_Alpena County, MI, USA
+45.1,-74.6_5905-6177 County Rd 27, Williamstown, ON K0C 2J0, Canada
+45.1,-73.6_450 Chemin Back Bush, Hemmingford, QC J0L 1H0, Canada
+45.1,-72.6_29 Chemin Billings, Sutton, QC J0E 2K0, Canada
+45.1,-71.6_1188-1214 Chemin St Jacques, Saint-Herménégilde, QC J0B 2W0, Canada
+45.1,-70.6_Unnamed Road, Eustis, ME 04936, USA
+45.1,-69.6_Unnamed Road, Kingsbury Plantation, ME 04942, USA
+45.1,-68.6_Meadow Rd, Greenbush, ME 04418, USA
+45.1,-67.6_Unnamed Road, Baileyville, ME 04694, USA
+46.1,-124.6_wkjfb,3qg,WA 22030, USA 
+46.1,-123.6_92521 Headworks Rd, Astoria, OR 97103, USA
+46.1,-122.6_Unnamed Road, Ariel, WA 98603, USA
+46.1,-121.6_NF-8031, Washington, USA
+46.1,-120.6_BIA Rd 83, Washington, USA
+46.1,-119.6_82301 WA-221, Prosser, WA 99350, USA
+46.1,-118.6_5096 Woodward Canyon Rd, Touchet, WA 99360, USA
+46.1,-117.6_Diamond Creek Rd, Pomeroy, WA 99347, USA
+46.1,-116.6_Unnamed Road, Winchester, ID 83555, USA
+46.1,-115.6_Swiftwater Rd, Kooskia, ID 83539, USA
+46.1,-114.6_Twin Lakes Rd, Hamilton, MT 59840, USA
+46.1,-113.6_Co Rd 5107, Philipsburg, MT 59858, USA
+46.1,-112.6_Butcher Gulch Rd, Butte, MT 59701, USA
+46.1,-111.6_Spike's Ln, Toston, MT 59643, USA
+46.1,-110.6_731 Shields River Rd, Wilsall, MT 59086, USA
+46.1,-109.6_1998 S Shawmut Rd, Ryegate, MT 59074, USA
+46.1,-108.6_3018-3798 21 Mile Rd, Broadview, MT 59015, USA
+46.1,-107.6_I-94, Custer, MT 59024, USA
+46.1,-106.6_Unnamed Road, Forsyth, MT 59327, USA
+46.1,-105.6_Unnamed Road, Miles City, MT 59301, USA
+46.1,-104.6_Unnamed Road, Ismay, MT 59336, USA
+46.1,-103.6_Unnamed Road, Rhame, ND 58651, USA
+46.1,-102.6_299-399 8th Ave NE, Hettinger, ND 58639, USA
+46.1,-101.6_59th Ave SW, Carson, ND 58529, USA
+46.1,-100.6_91st St SW, Linton, ND 58552, USA
+46.1,-99.6_3700-3744 91st St SE, Wishek, ND 58495, USA
+46.1,-98.6_8542-8552 91st St SE, Ellendale, ND 58436, USA
+46.1,-97.6_13353-13399 91st St SE, Forman, ND 58032, USA
+46.1,-96.6_9095 182nd Ave SE, Fairmount, ND 58030, USA
+46.1,-95.6_Old Post Rd, Evansville, MN 56326, USA
+46.1,-94.6_2912 230th St, Randall, MN 56475, USA
+46.1,-93.6_37477-38281 90th Ave, Onamia, MN 56359, USA
+46.1,-92.6_50680 Fleming Logging Rd, Sandstone, MN 55072, USA
+46.1,-91.6_John Waggoner Rd, Hayward, WI 54843, USA
+46.1,-90.6_75684 Schmenski Rd, Glidden, WI 54527, USA
+46.1,-89.6_9458-9892 Forest Rd, Boulder Junction, WI 54512, USA
+46.1,-88.6_1672 S Ice Lake Rd, Iron River, MI 49935, USA
+46.1,-87.6_Unnamed Road, Felch, MI 49831, USA
+46.1,-86.6_2760 Rd, Wetmore, MI 49895, USA
+46.1,-85.6_W14716 US-2, Engadine, MI 49827, USA
+46.1,-84.6_2626 E Simmons Rd, Hessel, MI 49745, USA
+46.1,-69.6_Scott Brook Rd, Northwest Piscataquis, ME, USA
+46.1,-68.6_Unnamed Road, Patten, ME 04765, USA
+47.1,-124.6_3lkgfn,3g3g, ME 13133, USA
+47.1,-123.6_Wilkie Ln, Montesano, WA 98563, USA
+47.1,-122.6_5600-5626 N 6th St, Joint Base Lewis-McChord, WA 98433, USA
+47.1,-121.6_62618 Elk Trail Way E, Enumclaw, WA 98022, USA
+47.1,-120.6_4620 Smithson Rd, Ellensburg, WA 98926, USA
+47.1,-119.6_408 S Main St, Warden, WA 98857, USA
+47.1,-118.6_Heineman Rd, Ritzville, WA 99169, USA
+47.1,-117.6_Harwood Hill Rd, St John, WA 99171, USA
+47.1,-116.6_300-398 Hume Creek Rd, St Maries, ID 83861, USA
+47.1,-115.6_St Joe Nf Rd 201, Avery, ID 83802, USA
+47.1,-114.6_Rd No 454, Huson, MT 59846, USA
+47.1,-113.6_Finley Creek Rd, Bonner, MT 59823, USA
+47.1,-112.6_Unnamed Road, Lincoln, MT 59639, USA
+47.1,-111.6_Unnamed Road, Cascade, MT 59421, USA
+47.1,-110.6_Forest Service Rd 262, Geyser, MT 59447, USA
+47.1,-109.6_6691 Hanover Rd, Lewistown, MT 59457, USA
+47.1,-108.6_Blakeslee Rd, Montana, USA
+47.1,-107.6_Unnamed Road, Sand Springs, MT 59077, USA
+47.1,-106.6_Unnamed Road, Cohagen, MT 59322, USA
+47.1,-105.6_Xit Rd, Terry, MT 59349, USA
+47.1,-104.6_523 Rd 300, Glendive, MT 59330, USA
+47.1,-103.6_Unnamed Road, Sentinel Butte, ND 58654, USA
+47.1,-102.6_22nd St SW, Gladstone, ND 58630, USA
+47.1,-101.6_Unnamed Road, New Salem, ND 58563, USA
+47.1,-100.6_11900-12454 266th Ave NE, Wilton, ND 58579, USA
+47.1,-99.6_4201-4247 22nd St SE, Pettibone, ND 58475, USA
+47.1,-98.6_2121-2199 90th Ave SE, Courtenay, ND 58426, USA
+47.1,-97.6_137 Ave SE, Page, ND 58064, USA
+47.1,-96.6_9214 170 Ave N, Borup, MN 56519, USA
+47.1,-95.6_Ltl Bemidji Rd, Waubun, MN 56589, USA
+47.1,-94.6_8099 MN-371, Walker, MN 56484, USA
+47.1,-93.6_Smith Creek Trail, Grand Rapids, MN 55744, USA
+47.1,-92.6_8127-8227 Hwy 7, Meadowlands, MN 55765, USA
+47.1,-91.6_2314 Co Hwy 3, Two Harbors, MN 55616, USA
+47.1,-90.6_Ashland County, WI, USA
+47.1,-89.6_Ontonagon County, MI, USA
+47.1,-88.6_Sermon Rd, Houghton, MI 49931, USA
+47.1,-87.6_Marquette County, MI, USA
+47.1,-86.6_Alger County, MI, USA
+47.1,-85.6_Luce County, MI, USA
+47.1,-69.6_Unnamed Road, Mont-Carmel, QC G0L 1W0, Canada
+47.1,-68.6_47 Gilmore Brook Rd, Eagle Lake, ME 04739, USA
+48.1,-124.6_Ozette Mnln, Clallam Bay, WA 98326, USA
+48.1,-123.6_2213 Dan Kelly Rd, Port Angeles, WA 98363, USA
+48.1,-122.6_3030 Sea Eagle Ln, Greenbank, WA 98253, USA
+48.1,-121.6_NF-4052, Granite Falls, WA 98252, USA
+48.1,-120.6_National Forest Development Rd 1441 Trail, Entiat, WA 98822, USA
+48.1,-119.6_Unnamed Road, Brewster, WA 98812, USA
+48.1,-118.6_Copper Creek Rd, Keller, WA 99140, USA
+48.1,-117.6_3880-3964 Southwood Shores Rd, Loon Lake, WA 99148, USA
+48.1,-116.6_182 Blackberry Ln, Cocolalla, ID 83813, USA
+48.1,-115.6_NF-2316, Libby, MT 59923, USA
+48.1,-114.6_Unnamed Road, Kila, MT 59920, USA
+48.1,-113.6_NF-5338, Hungry Horse, MT 59919, USA
+48.1,-112.6_W Gypsy Basin Rd, Pendroy, MT 59467, USA
+48.1,-111.6_6029 Hog Johnson Road, Brady, MT 59416, USA
+48.1,-110.6_491 Jerrys Ln, Loma, MT 59460, USA
+48.1,-109.6_223 Clear Creek Rd, Big Sandy, MT 59520, USA
+48.1,-108.6_Unnamed Road, Harlem, MT 59526, USA
+48.1,-107.6_Content Rd, Malta, MT 59538, USA
+48.1,-106.6_MT-24, Glasgow, MT 59230, USA
+48.1,-105.6_7141 MT-25, Wolf Point, MT 59201, USA
+48.1,-104.6_Co Rd 152, Brockton, MT 59213, USA
+48.1,-103.6_Unnamed Road, Williston, ND 58801, USA
+48.1,-102.6_ND-1804, New Town, ND 58763, USA
+48.1,-101.6_12100 198th St SW, Des Lacs, ND 58733, USA
+48.1,-100.6_1st Ave N, Karlsruhe, ND 58744, USA
+48.1,-99.6_Toso Rd, Esmond, ND 58332, USA
+48.1,-98.6_9347-9399 47th St NE, Crary, ND 58327, USA
+48.1,-97.6_3598 29th Ave NE, Gilby, ND 58235, USA
+48.1,-96.6_15836 260th Ave NW, Angus, MN 56762, USA
+48.1,-95.6_Unnamed Road, Goodridge, MN 56725, USA
+48.1,-94.6_20607 Joas Beach Rd NE, Kelliher, MN 56650, USA
+48.1,-93.6_Deer River Line, Big Falls, MN 56627, USA
+48.1,-92.6_8401-8495 Orr Buyck Rd, Orr, MN 55771, USA
+48.1,-91.6_Moose Lake Rd, Ely, MN 55731, USA
+48.1,-90.6_Gunflint Trail, Grand Marais, MN 55604, USA
+48.1,-89.6_2161 Pardee Rd, Neebing, ON P7L 0G7, Canada
+48.1,-88.6_Greenstone Ridge Trail, Houghton Township, MI, USA
+49.1_-124.6_wkgfb2,wfgkbn, WA 11111, USA
+49.1_-123.6_wskjbf , wofb , AK 11111, USA 
+49.1,-122.6_5318-5398 224 St, Langley, BC V2Y 2L7, Canada
+49.1,-121.6_Unnamed Road, Hope, BC V0X 1L2, Canada
+49.1,-120.6_Unnamed Road, Manning Park, BC V0X 1R0, Canada
+49.1,-119.6_Unnamed Road, Cawston, BC V0X 1C0, Canada
+49.1,-118.6_Phoenix Way, Greenwood, BC V0H 1J0, Canada
+49.1,-117.6_Antenna Trail, Trail, BC V1R 4W3, Canada
+49.1,-116.6_Nicks Island Rd, Creston, BC V0B 1G7, Canada
+49.1,-115.6_Unnamed Road, Grasmere, BC V0B, Canada
+49.1,-114.6_Cabin Forest Service Rd, Grasmere, BC V0B 1R0, Canada
+49.1,-113.6_Range Rd 281A, Mountain View, AB T0K 1N0, Canada
+49.1,-112.6_Unnamed Road, Del Bonita, AB T0K 0S0, Canada
+49.1,-111.6_AB-500, Aden, AB T0K 0A0, Canada
+49.1,-110.6_Township Rd 21A, Aden, AB T0K 0A0, Canada
+49.1,-109.6_Unnamed Road, Consul, SK S0N 0P0, Canada
+49.1,-108.6_Unnamed Road, Frontier, SK S0N 0W0, Canada
+49.1,-107.6_Unnamed Road, Val Marie, SK S0N 2T0, Canada
+49.1,-106.6_Unnamed Road, Old Post No. 43, SK S0H, Canada
+49.1,-105.6_Unnamed Road, Coronach, SK S0H 0Z0, Canada
+49.1,-104.6_Unnamed Road, Minton, SK S0C 1T0, Canada
+49.1,-103.6_Unnamed Road, Torquay, SK S0C 2L0, Canada
+49.1,-102.6_Unnamed Road, North Portal, SK S0C 1W0, Canada
+49.1,-101.6_SK-8, Carievale, SK S0C 0P0, Canada
+49.1,-100.6_MB-251, Goodlands, MB R0M 0R0, Canada
+49.1,-99.6_Unnamed Road, Holmfield, MB R0K 1A0, Canada
+49.1,-98.6_Unnamed Road, Snowflake, MB R0G 2K0, Canada
+49.1,-97.6_MB-201, Altona, MB R0G 0B1, Canada
+49.1,-96.6_Dyke Rd, Gardenton, MB R0A 0M0, Canada
+49.1,-95.6_MB-308, Middlebro, MB R0A 1B0, Canada
+56.2,-158.1_Lake and Peninsula, AK, USA
+56.2,-157.1_United States
+56.2,-156.1_United States
+56.2,-155.1_United States
+56.2,-154.1_United States
+56.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+57.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+57.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+57.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+57.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+57.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+57.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+58.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+58.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+58.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+58.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+58.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+58.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+59.2,-161.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+59.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+59.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+59.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+59.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+59.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+59.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+59.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+59.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-165.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-164.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-163.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-162.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-161.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+60.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-165.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-164.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-163.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-162.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-161.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+61.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-165.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-164.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-163.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-162.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-161.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+62.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+63.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+64.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-167.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-166.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-165.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-164.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-163.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-162.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-161.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+65.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-167.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-166.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-165.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-164.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-163.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-162.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-161.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+66.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-163.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-162.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-161.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+67.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-167.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-166.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-165.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-164.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-163.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-162.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-161.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+68.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-167.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-166.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-165.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-164.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-163.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-162.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-161.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+69.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-162.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-161.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-160.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-159.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-158.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-157.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-156.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-155.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-154.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-153.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-152.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-151.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-150.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-149.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-148.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-147.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-146.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-145.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-144.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-143.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-142.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+70.2,-141.1_Gunflint Trail ,  Grand Marais , AK 55604 , USA
+

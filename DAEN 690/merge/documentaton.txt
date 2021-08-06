@@ -1,0 +1,48 @@
+> The eiadata part contains columns for each type of data we wanted ( units mentioned in the header) . 
+> Some columns had very less data - those are the other 2 eai files in this folder . I do not know how you want to handle missing values ... there is only data for 4 years in these 3 files . This is why I have kept them as is in the folder. 
+> the weather data . Three major things are kt , t2m,ws10m - solar index , temp at 2 m , wind speed at 10 m . 
+There are seperate columns for max , min , mean of these values ( since I had to aggregate from the original values ). 
+> The physics part of it which ties together the relationship between solar energy produced and electricity generated is also mentioned . 
+> The total_renewable_policy_count	 , Wind_policy_count	, Solar_photovoltaic_policy_count
+has a numeric count of the number of policies that a state has for each of these categories for renewable energy . The data has been gathered from http://www.dsireusa.org . Reputable source , cuz funded by the government . 
+
+> The explanation for the relationships : 
+
+wind and energy produced 
+
+The general formula is p = 0.5 * density * area * v ^ 3 * Cp 
+0.5 , density , the pi in area = pi * r^2 have been multiplied to get the equation . 
+
+for wind , Power = 1.93 * V^3 * R^2 * Cp , in watts
+Cp is max power coefficient , varies from 0.25 to 0.45 . Max of 0.59
+r is radius of swept area in meters
+V is wind speed  in m/s ( we have this )
+
+
+Solar and energy produced 
+
+power = solar constant * isolation clearness index * r^ 2 * conversion efficiency , in watts 
+
+We consider the solar constant , which is equal to 1367 watts / m ^ 2 . This does not change a lot , and can therefore be assumed constant . 
+r is length of solar panel 
+conversion efficiency varies from 0.14 to 0.24 . Theoretical max of 0.46 . 
+Isolation clearness index ( we have this )
+
+
+
+
+
+What has been done 
+
+1. Figured out reverse geocoding for the google maps API to identify each lat long value by state . Assigned state to each row in weather data . 
+2. I used Pandas to clean up the weather data - handled a lot of missing value kind of data. There might still be a few here and there , but I'd say around 95% + is filled in . 
+3. I aggregated the weather data by month and year. To avoid inaccurate data , I have the (mean,max,min) for (solar index , temperature , wind speed ) . This will give a much wider spread. 
+4. WRT the EIA data , I have cleaned all of the datasets we considered. Three of the datasets were especially small when compared to the others , so I did not integrate them with the rest. They have been left as seperate files by themself.( The reason they are small is because on the EIA website , they have data for only 4 years , while the others have it for 15 years ). 
+5. I have merged all of the EIA datasets into a single file, cleaned it up and handled a lot of the missing values. There might still be a few here and there , but I'd say around 95% + is filled in . 
+6. I learnt that substituting the NaN values in these 3 files to merge all of them together leads to bad accuracy in even linear regression. 
+7. I figured out the  relationship between electricity production and wind/solar generation. I will put it up in the whatsapp group and the drive as well. I have connected the equations generated to the values we have with us (Some we do not , but can be gathered and appended to the dataset pretty easily). We can now calculate difference between theoretical production and actual production.
+8. There is still some processing to do with the physics bit. I can do it , but I want you guys to work on it. The same is the case with the EIA missing values thing.  
+9. Will upload the ipnyb files if someone needs it. 
+10. The data is in the drive . 
+ 
+

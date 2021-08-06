@@ -1,0 +1,75 @@
+# done 
+1. EIA Data Sets > Electricity > Net generation > By fuel type > Wind  - for each state , monthly . 
+
+#done
+2. EIA Data Sets > Electricity > Net generation > By fuel type > All Solar - for each state , monthly .  
+
+#done
+3. EIA Data Sets > Electricity > Retail sales of electricity > Residential - for each state , monthly . 
+
+#done
+4. EIA Data Sets > Electricity > Average retail price of electricity > Residential - for each state , monthly . 
+
+#done
+5. EIA Data Sets > Electricity > Net generation > By fuel type > Other renewables (total) - for each state , monthly.
+
+#done
+6. EIA Data Sets > Electricity > Net generation > By fuel type > Small-scale solar photovoltaic > Residential - for each state , monthly . 
+
+#done 
+7. EIA Data Sets > Electricity > Revenue from retail sales of electricity - for each state , monthly . 
+
+
+# apart from this , additional sources that I think will be useful . 
+# discussed with Jamie about getting revenue total , but having only residential there
+# will be interesting lvl of granularity 
+#done
+1. EIA Data Sets > Electricity > Revenue from retail sales of electricity > residential 
+
+
+# discussed about total consumption by sector , which does not unfortunately include the total as is . 
+# have to get data for each source . 
+# I'm doing just that , we can add all of the values lol . 
+#done
+2.   EIA Data Sets > Electricity > Total consumption > By sector > Electric power (total) >>> coal + petroleum liquids + pertoleum coke + natural gas 
+
+
+3. # can get this as well.  
+Electric system operating data 
+
+
+
+
+# look into this 
+electric system operating data 
+
+
+
+https://power.larc.nasa.gov/cgi-bin/timeseries.cgi?email=daily%40larc.nasa.gov&step=1&lat=31&lon=-73&ms=1&ds=1&ys=1983&me=12&de=31&ye=2017&p=PS&p=T2M&submit=Submit&plot=swv_dwn
+
+
+
+
+
+
+
+
+
+
+
+
+Jamie prez ideas 
+
+First , think of the takeaway . 
+
+Next , what do you want people to take away from it . 
+
+
+resume 
+
+experience , skills , projects .
+
+
+
+
+
